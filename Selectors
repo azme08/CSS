@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+<head>
+  <title>My Page</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hi</h1>
+  <h1 id="welcome">Hi</h1>
+  <h1 class="heading">Azme</h1>
+</body>
+
+</html>
+------------------------------
+
+/* h1 {
+background-color: green;
+} */
+
+#welcome {
+background-color: green;
+}
+
+.heading{
+  color:blue;
+}
