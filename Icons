@@ -1,0 +1,24 @@
+<!Doctype html>
+<html>
+<head>
+  <title>My Page</title>
+<link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  
+</head>
+<body>
+  <h1>Hi</h1>
+  <h1 id="welcome">Azme </h1>
+  <b>
+     <p class="heading"> Azme is a beast</p>
+    
+  </b>
+  <a href="#">Azme is a monster </a>
+
+  <i class="material-icons">cloud</i>
+  <i class="material-icons">computer</i>
+  <i class="material-icons">traffic</i>
+ 
+</body>
+
+</html>
