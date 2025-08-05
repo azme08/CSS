@@ -1,0 +1,38 @@
+<!Doctype html>
+<html>
+<head>
+  <title>My Page</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hi</h1>
+  <h1 id="welcome">Azme is a <b class="text">monster</b></h1>
+  <b>
+     <p class="heading"> Azme</p>
+    
+  </b>
+ 
+</body>
+
+</html>
+---------------------------------------------------------------------------
+body{
+  
+}
+
+
+h1{
+
+ /* color: blue;*/
+  /*background-color: red;*/
+  /* text-align: right; */
+/*text-align: justify;*/
+ /* text-align-last: center; */
+
+
+
+  
+}
+b.text{
+  vertical-align: top;
+}
