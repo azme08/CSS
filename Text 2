@@ -1,0 +1,53 @@
+<!Doctype html>
+<html>
+<head>
+  <title>My Page</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hi</h1>
+  <h1 id="welcome">Azme </h1>
+  <b>
+     <p class="heading"> Azme is a beast</p>
+    
+  </b>
+  <a href="#">Azme is a monster </a>
+ 
+</body>
+
+</html>
+
+-----------------------------------------------------------------------------------
+
+body{
+  
+}
+
+
+h1, a, p{
+
+ /* color: blue;*/
+  /*background-color: red;*/
+  /* text-align: right; */
+/*text-align: justify;*/
+ /* text-align-last: center; */
+/*text-decoration-line: underline;*/
+  /*text-decoration-line: line-through;*/
+  
+ /* text-decoration-line: overline;
+  text-decoration-color: green;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 5px;*/
+
+  /* text-decoration: overline purple dotted 5px; */
+/*text-decoration: none;*/
+
+ /* text-transform: lowercase;*/
+/*text-transform: capitalize;*/
+
+/*text-indent: 30px;*/
+/*letter-spacing: 10px;*/
+
+  
+  
+}
